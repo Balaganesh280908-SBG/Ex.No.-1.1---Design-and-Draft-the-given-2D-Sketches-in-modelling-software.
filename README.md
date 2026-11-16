@@ -13,38 +13,50 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   
 ## PROCEDURE
 
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+Step 1 Draw a vertical line extending 65 mm above the centre point and another vertical line extending 50 mm below the centre point. Draw two concentric circles of diameter 66 mm and 40 mm at the centre point.
 
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
+<img width="290" height="493" alt="image" src="https://github.com/user-attachments/assets/241d0a32-3309-47ca-80ad-0dda402ba358" />
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+Step 2 At the 65 mm point from the centre, draw two concentric circles of diameter 20 mm and 32 mm.At the 50 mm point from the centre, draw two concentric circles of diameter 10 mm and 20 mm. Draw two more circles of diameter 20 mm and 14 mm on the left and right centre points. These centres are located 47 mm to the left and right of the vertical centre line and 26 mm below the origin.
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
+Step 3 Draw two circles of diameter 128 mm and 40 mm and apply suitable Tangent constraints with the other circles to obtain a smooth profile. Draw another two circles of diameter 40 mm and 50 mm and apply suitable Tangent constraints with the neighbouring circles to complete the curve, as shown below.
 
-5.	Use inspect feature to measure the dimensions of sketch.
+<img width="306" height="425" alt="image" src="https://github.com/user-attachments/assets/a22fed38-14ec-4325-a116-2445531f41f4" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
+Step 4 Draw a 12 mm diameter circle on the 66 mm circle and use the Circular Pattern command to create 6 copies of it. Use the Trim command to remove the excess portions of the sketch.
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+<img width="262" height="410" alt="image" src="https://github.com/user-attachments/assets/54862da1-f979-40d8-aa59-e72cde92ddd4" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
+Step 5 Select the portions of the sketch to be mirrored, choose the centre line as the mirror line, and mirror them. Once the sketch is complete, click Finish Sketch and extrude the profile by a distance of -20 mm. 
 
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
+<img width="316" height="167" alt="image" src="https://github.com/user-attachments/assets/0bcf9811-fb2e-499c-841d-27b8a359232c" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
 
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
 
+
+<img width="377" height="177" alt="image" src="https://github.com/user-attachments/assets/fe612bb7-5fea-4193-b446-072e9851f906" />
+
+
+Step 6 After the 3D model is created, go to Design, choose Drawing and select From Design. Place the front view, top view, side view and isometric view on the sheet, and then add the dimensions.
+
+<img width="410" height="465" alt="image" src="https://github.com/user-attachments/assets/8e465b75-93bb-403a-bdc2-e09becbb249b" />
+
+
+
+
+<img width="466" height="517" alt="image" src="https://github.com/user-attachments/assets/c8503d74-0d40-429f-932a-82fa3d9857d2" />
 
 
 ## SKETCHS
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
-## OUTPUT
+## DRAWING
 
 <img width="807" height="570" alt="image" src="https://github.com/user-attachments/assets/b52f2515-098c-4daa-80c8-264148a2e13f" />
+
+## OUTPUT
+
+<img width="465" height="456" alt="image" src="https://github.com/user-attachments/assets/377d4f32-b259-4eb9-9087-cbd1ec90a9c8" />
 
 
 ## RESULT
