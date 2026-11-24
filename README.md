@@ -34,23 +34,17 @@ Draw a 12 mm diameter circle on the 66 mm circle and use the Circular Pattern co
 ## Step 5 
 Select the portions of the sketch to be mirrored, choose the centre line as the mirror line, and mirror them. Once the sketch is complete, click Finish Sketch and extrude the profile by a distance of -20 mm. 
 
-<img width="316" height="167" alt="image" src="https://github.com/user-attachments/assets/0bcf9811-fb2e-499c-841d-27b8a359232c" />
+# <img width="316" height="167" alt="image" src="https://github.com/user-attachments/assets/0bcf9811-fb2e-499c-841d-27b8a359232c" />
 
-
-
-
-<img width="377" height="177" alt="image" src="https://github.com/user-attachments/assets/fe612bb7-5fea-4193-b446-072e9851f906" />
+# <img width="377" height="177" alt="image" src="https://github.com/user-attachments/assets/fe612bb7-5fea-4193-b446-072e9851f906" />
 
 
 ## Step 6
 After the 3D model is created, go to Design, choose Drawing and select From Design. Place the front view, top view, side view and isometric view on the sheet, and then add the dimensions.
 
-<img width="410" height="465" alt="image" src="https://github.com/user-attachments/assets/8e465b75-93bb-403a-bdc2-e09becbb249b" />
+# <img width="410" height="465" alt="image" src="https://github.com/user-attachments/assets/8e465b75-93bb-403a-bdc2-e09becbb249b" />
 
-
-
-
-<img width="466" height="517" alt="image" src="https://github.com/user-attachments/assets/c8503d74-0d40-429f-932a-82fa3d9857d2" />
+# <img width="466" height="517" alt="image" src="https://github.com/user-attachments/assets/c8503d74-0d40-429f-932a-82fa3d9857d2" />
 
 
 ## SKETCHS
